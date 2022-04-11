@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 directory_name = 'appli'
 
 file_data = Dir.glob(File.join(directory_name, '**', '*.*')).each_with_object({}) do |file_name, hash|
