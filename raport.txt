@@ -1,0 +1,16 @@
+.js	5
+.css	1
+.rb	25
+.erb	3
+.cmd	1
+.yml	4
+.enc	1
+.key	1
+.ru	1
+.lock	1
+.log	1
+.html	3
+.png	2
+.ico	1
+.txt	2
+.md	1
