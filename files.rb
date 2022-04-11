@@ -1,4 +1,4 @@
-directory_name = 'appli'
+directory_name = 'app'
 
 file_data = Dir.glob(File.join(directory_name, '**', '*.*')).each_with_object({}) do |file_name, hash|
   ext = File.extname(file_name)
